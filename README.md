@@ -1,0 +1,1 @@
+# flask_templates_app_events
